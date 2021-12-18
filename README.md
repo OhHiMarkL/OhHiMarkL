@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @OhHiMarkL
+- 👋 Hi, I’m @OhHiMarkL.
 - 👀 I’m interested in Computer Science, Development and Gaming.
-- 🌱 I’m currently studying a course of Bioinformatics
+- 📞 I’m currently working as a Support Agent for VodafoneZiggo.
 
 <!---
 OhHiMarkL/OhHiMarkL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
